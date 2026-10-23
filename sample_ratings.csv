@@ -1,0 +1,41 @@
+query,rank,rater,rating
+best budget smartphone 2026,1,r1,4
+best budget smartphone 2026,1,r2,4
+best budget smartphone 2026,2,r1,3
+best budget smartphone 2026,2,r2,3
+best budget smartphone 2026,3,r1,3
+best budget smartphone 2026,3,r2,2
+best budget smartphone 2026,4,r1,2
+best budget smartphone 2026,4,r2,2
+best budget smartphone 2026,5,r1,1
+best budget smartphone 2026,5,r2,1
+pizza near me,1,r1,3
+pizza near me,1,r2,4
+pizza near me,2,r1,4
+pizza near me,2,r2,4
+pizza near me,3,r1,2
+pizza near me,3,r2,0
+pizza near me,4,r1,2
+pizza near me,4,r2,3
+pizza near me,5,r1,0
+pizza near me,5,r2,0
+how to renew passport india,1,r1,4
+how to renew passport india,1,r2,4
+how to renew passport india,2,r1,4
+how to renew passport india,2,r2,4
+how to renew passport india,3,r1,3
+how to renew passport india,3,r2,3
+how to renew passport india,4,r1,1
+how to renew passport india,4,r2,1
+how to renew passport india,5,r1,1
+how to renew passport india,5,r2,0
+python csv tutorial,1,r1,1
+python csv tutorial,1,r2,0
+python csv tutorial,2,r1,3
+python csv tutorial,2,r2,3
+python csv tutorial,3,r1,4
+python csv tutorial,3,r2,4
+python csv tutorial,4,r1,2
+python csv tutorial,4,r2,2
+python csv tutorial,5,r1,2
+python csv tutorial,5,r2,3
